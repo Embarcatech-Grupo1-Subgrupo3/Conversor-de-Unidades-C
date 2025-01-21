@@ -6,7 +6,7 @@
 
 <h4 align="center">
 
-	🚧 Projeto Finalizado 🚧
+🚧 Projeto Finalizado 🚧
 
 </h4>
 
